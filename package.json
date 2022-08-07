@@ -1,0 +1,16 @@
+{
+  "name": "web3rsvp",
+  "version": "1.0.0",
+  "description": "This is a full-stack RSVP dapp. Think of it as a web3-native eventbrite, except attendees need to deposit ETH and will get it back upon checkhing in at the event.",
+  "main": "index.js",
+  "scripts": {
+    "script": "node scripts/run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1"
+  }
+}
