@@ -1,8 +1,8 @@
 # A Web 3.0 RSVP dApp 
 
-This is essentially a web3-native Eventbrite, except attendees need to deposit ETH to RSVP and will get it back upon them checking in at the event.
+This is an event management and creation dApp, think of it as a web3-native Eventbrite, except attendees need to deposit ETH to RSVP and will get it back upon them checking in at the event.
 
-# This event management and creation dapp is built with this stack on Ethereum using Solidity:
+## Project Built Using This Stack
 
 - Filecoin & IPFS
 - The Graph
