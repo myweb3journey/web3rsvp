@@ -1,6 +1,15 @@
-# Sample Hardhat Project
+# A Web 3.0 RSVP dApp 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is essentially a web3-native Eventbrite, except attendees need to deposit ETH to RSVP and will get it back upon them checking in at the event.
+
+# This event management and creation dapp is built with this stack on Ethereum using Solidity:
+
+- Filecoin & IPFS
+- The Graph
+- Radicle
+- Infura
+- Polygon
+- Lens
 
 Try running some of the following tasks:
 
