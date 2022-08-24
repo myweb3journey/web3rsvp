@@ -11,6 +11,8 @@ This is an event management and creation dApp, think of it as a web3-native Even
 - Polygon
 - Lens
 
+![Screen Shot 2022-08-24 at 3 13 49 PM](https://user-images.githubusercontent.com/44388988/186536945-67c6b9fe-4805-4f56-be6e-5b9a5ba130f0.png)
+
 Try running some of the following tasks:
 
 ```shell
